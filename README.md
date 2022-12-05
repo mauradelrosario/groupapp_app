@@ -7,6 +7,6 @@
 
 ### 3.2 <a name="Cloneandinstall">Clone and install</a>
 ```bash
-git clone git@github.com:mauradelrosario/groupnat_app-.git
+git clone git@github.com:mauradelrosario/groupnat_app.git
 
 ```
